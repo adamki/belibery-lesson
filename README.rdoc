@@ -1,0 +1,13 @@
+== Belibery
+
+A sample app to teach students basic Rails concepts.
+
+It has the following branches in order of completion,
+
+1. Initial
+2. First Model
+3. Second Model
+4. Model Relationships
+5. Controller Test
+6. Validations
+7. Transactions
